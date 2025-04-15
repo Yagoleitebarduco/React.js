@@ -1,0 +1,14 @@
+1. abra o cmd
+2. Crie uma Pasta Para Guardar o React (EX: Aula01)
+3. Copiar o Caminho da Pasta Criado no Passo 2, Depois escreva (cd /*caminho da pasta*/)
+
+INTALAÇÃO DO REACT
+1. Dentro da Pasta escreva o comando npm create vite@latest (Pede um Confirmação com y)
+	1. Project name: (ex: Aula 01)
+	2. Package name: (O mesmo nome do Projeo)
+	3. Select a framework: (React)
+	4. Select a variant: (JavaScript)
+2. Depois Executar os Codigos que ele mostra
+	1. cd (nome da Pasta)
+	2. npm install
+	3. npm run dev
